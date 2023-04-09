@@ -43,3 +43,24 @@ jspm_packages
 .results.json
 
 *.solution.*
+
+
+
+
+function doNothing() {} 
+function sayHello() {
+    console.log("Hello!");
+  }
+  sayHello()
+  function sayHelloToIsabel(){
+    console.log("Hello, Isabel!");
+}
+sayHelloT()
+function sayHelloToSofia() {
+    console.log("Hello, Sofia!");
+}
+sayHelloToSofia()
+function sayHelloToBrendan() {
+    console.log("Hello, Brendan!");
+  }
+  sayHelloToBrendan()
